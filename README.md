@@ -58,15 +58,20 @@ After setting up the application, you can start tracking your expenses. Here’s
 1. Navigate to the "Add Expense" section.
 2. Fill in the details such as amount, category, and date.
 3. Click "Submit" to save the expense.
+## Add/Update Tab Picture
+<image src="https://github.com/sangamesh5725/Expense-Tracking-Web-Application/blob/main/Add_Update%20Tab.png">
 
 ### Viewing Analytics
 1. Go to the "Analytics" tab.
 2. View your spending patterns through visualization using bar chart
 3. Use filters to refine your data based on categories or dates.
+## Analytics Tab Picture
+<image src="https://github.com/sangamesh5725/Expense-Tracking-Web-Application/blob/main/Analytics_Tab.png">
 
 ### Update Expenses
 1. Access the "Update Expenses" section.
 2. You can edit or delete any existing expense records.
+<image src="https://github.com/sangamesh5725/Expense-Tracking-Web-Application/blob/main/MySql_Database.png">
 
 
 ## 📌 Notes
@@ -90,3 +95,4 @@ After setting up the application, you can start tracking your expenses. Here’s
 
 For questions or suggestions:  
 **Sangamesh Devani** | `sangamesh.devani@gmail.com`
+
