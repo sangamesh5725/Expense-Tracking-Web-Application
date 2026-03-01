@@ -22,14 +22,14 @@ pip install -r requirements.txt
 
 ### 3. Start the FastAPI backend server:
 ```
-uvicorn Backend.server:app --reload
+uvicorn server:app --reload
 ```
 
 > 📁 Make sure you're in the `Backend/` folder when running the above command.
 
 ### 4. Run the Streamlit frontend:
 ```
-streamlit run Frontend.\app.py
+streamlit run .\app.py
 ```
 
 
@@ -95,4 +95,5 @@ After setting up the application, you can start tracking your expenses. Here’s
 
 For questions or suggestions:  
 **Sangamesh Devani** | `sangamesh.devani@gmail.com`
+
 
